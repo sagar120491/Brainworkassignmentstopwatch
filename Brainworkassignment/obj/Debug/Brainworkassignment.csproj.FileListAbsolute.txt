@@ -1,0 +1,7 @@
+D:\Aspc#\Project\Brainworkassignmentstopwatch\Brainworkassignment\bin\Debug\Brainworkassignment.exe.config
+D:\Aspc#\Project\Brainworkassignmentstopwatch\Brainworkassignment\bin\Debug\Brainworkassignment.exe
+D:\Aspc#\Project\Brainworkassignmentstopwatch\Brainworkassignment\bin\Debug\Brainworkassignment.pdb
+D:\Aspc#\Project\Brainworkassignmentstopwatch\Brainworkassignment\obj\Debug\Brainworkassignment.csprojAssemblyReference.cache
+D:\Aspc#\Project\Brainworkassignmentstopwatch\Brainworkassignment\obj\Debug\Brainworkassignment.csproj.CoreCompileInputs.cache
+D:\Aspc#\Project\Brainworkassignmentstopwatch\Brainworkassignment\obj\Debug\Brainworkassignment.exe
+D:\Aspc#\Project\Brainworkassignmentstopwatch\Brainworkassignment\obj\Debug\Brainworkassignment.pdb
